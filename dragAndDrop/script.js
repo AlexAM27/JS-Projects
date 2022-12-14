@@ -1,3 +1,5 @@
+'use strict';
+
 const item = document.querySelector('.item');
 const placeholders = document.querySelectorAll('.placeholder');
 
